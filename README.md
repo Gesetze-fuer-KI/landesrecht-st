@@ -56,4 +56,7 @@ Google darf die Gesetze also einlesen, ein freies, gemeinnütziges Projekt nicht
 > Mit freundlichen Grüßen\
 > [Name]
 
-Bis dahin: [Landesrecht Sachsen-Anhalt von Hand lesen](https://www.landesrecht.sachsen-anhalt.de) · [gesetze-fuer-ki.de](https://gesetze-fuer-ki.de) 
+## Bis dahin
+
+- **[Landesrecht Sachsen-Anhalt auf dem Landesportal](https://www.landesrecht.sachsen-anhalt.de)**: von Hand im Browser lesen.
+- **[gesetze-fuer-ki.de](https://gesetze-fuer-ki.de)**: Bundesrecht und das Landesrecht der Länder, die den Abruf erlauben, für Ihren KI-Assistenten.
